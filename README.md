@@ -1,3 +1,3 @@
-# Welcome to GurHer Github
-
-This is test paragraph.
+<h1 align="center">
+👋 Hi, I am an aspiring Data Scientist!
+</h1>
