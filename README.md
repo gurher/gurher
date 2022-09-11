@@ -4,5 +4,5 @@
 
 ### Connect With Me Via Social Media 🔗
 
-- [Linkedin](https://linkedin.com
+- [Linkedin](https://linkedin.com)
 - [Personal Website](https://gurger.github.io)
