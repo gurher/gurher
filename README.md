@@ -34,6 +34,34 @@ I'm actively looking for roles in **Data Analytics, Product Analytics, Business 
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
+## 📌 About Me
+
+- 🎓 B.S. Statistics (Machine Learning concentration) — UC Davis
+- 🏢 Currently: Sales Operations Analyst @ ServeOne America (Nashville, TN)
+- 🌏 Previously: Business Analyst Intern @ Banksalad (Seoul, Korea)
+- 🔭 Exploring: Data Engineering, dbt, cloud pipelines
+- 📫 Reach me: [hyug726@gmail.com](mailto:hyug726@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gurher&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurher&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_SLUG)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/YOUR_TABLEAU)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gurher.github.io-black?style=flat-square)](https://gurher.github.io)
+[![Email](https://img.shields.io/badge/Email-hyug726@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hyug726@gmail.com)
+
+
+<!-- 
 ---
 
 ## 🔍 Featured Projects
@@ -67,29 +95,5 @@ Time-series forecasting model on public automotive/electronics sales data, repli
 `Python` `Time Series` `Power BI` `Tableau`
 
 ---
+hidden -->
 
-## 📌 About Me
-
-- 🎓 B.S. Statistics (Machine Learning concentration) — UC Davis
-- 🏢 Currently: Sales Operations Analyst @ ServeOne America (Nashville, TN)
-- 🌏 Previously: Business Analyst Intern @ Banksalad (Seoul, Korea)
-- 🔭 Exploring: Data Engineering, dbt, cloud pipelines
-- 📫 Reach me: [hyug726@gmail.com](mailto:hyug726@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurher&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurher&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_SLUG)
-[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/YOUR_TABLEAU)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gurher.github.io-black?style=flat-square)](https://gurher.github.io)
-[![Email](https://img.shields.io/badge/Email-hyug726@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hyug726@gmail.com)
