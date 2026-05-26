@@ -35,7 +35,6 @@ I build pipelines, dashboards, and models that connect raw data to real business
 
 - 🎓 B.S. Statistics (Machine Learning concentration) — UC Davis
 - 🏢 Currently: Sales Operations Analyst @ ServeOne America (Nashville, TN)
-- 🌏 Previously: Business Analyst Intern @ Banksalad (Seoul, Korea)
 - 🔭 Exploring: Data Engineering, dbt, cloud pipelines
 - 📫 Reach me: [hyug726@gmail.com](mailto:hyug726@gmail.com)
 
