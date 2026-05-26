@@ -3,9 +3,6 @@
 **Data & Analytics | SQL · Python · Power BI · LLM Integration**
 
 I build pipelines, dashboards, and models that connect raw data to real business decisions.
-Currently a Sales Operations Analyst at ServeOne America — previously a Business Analyst intern at Banksalad and a research analyst at UC Davis.
-
-I'm actively looking for roles in **Data Analytics, Product Analytics, Business Intelligence, and Data Engineering**.
 
 ---
 
