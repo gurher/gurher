@@ -40,15 +40,6 @@ I build pipelines, dashboards, and models that connect raw data to real business
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurher&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurher&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_SLUG)
